@@ -35,10 +35,11 @@ SAFEVERSE is a feature-rich application within the SparkWomen ecosystem, dedicat
 ## Screenshots and Videos
 
 ![Screenshot 1](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/dd5021ca-3344-47eb-96bf-0670c1197467)
-  
-[Video Part 1](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/c564ee6b-12e6-46b6-9ca8-413c839d6168)
 
 [Video Part 2](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/8ea2b0b9-0a48-45e3-9167-8a2c45c04771)
+
+[Video Part 1](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/c564ee6b-12e6-46b6-9ca8-413c839d6168)
+
 
 ## How to Use
 [Instructions on how to use the app]
