@@ -1,36 +1,56 @@
-# SafeVerse
+# SAFEVERSE: Empowering Women's Safety and Awareness
 
-SafeVerse is a project dedicated to enhancing online safety and privacy.
+Welcome to SAFEVERSE, the ultimate safety companion app designed to empower women and promote a safer environment for all.
 
-## Description
+## Introduction
 
-SafeVerse aims to provide users with tools and resources to protect their online presence, maintain privacy, and stay secure in the digital world. Whether it's safeguarding personal information, preventing online threats, or promoting digital literacy, SafeVerse strives to empower individuals to navigate the internet safely.
+SAFEVERSE is a feature-rich application within the SparkWomen ecosystem, dedicated to providing essential tools and knowledge to help women navigate through various situations confidently. This README provides an overview of SAFEVERSE's key features and functionalities.
 
 ## Features
 
-- **Privacy Protection**: Learn about best practices for protecting personal information online.
-- **Security Tips**: Access tips and guidelines for enhancing online security.
-- **Educational Resources**: Explore educational content on cybersecurity and digital privacy.
-- **Community Engagement**: Join discussions, share insights, and collaborate with others passionate about online safety.
+### Emergency Contacts
+- Access crucial emergency contacts such as Police (100), Ambulance (101), and Fire Brigade (102).
+- Customize your emergency contacts for quick access during distress situations.
 
-## Installation
+### Panic Button
+- Activate the "Panic Button" for immediate assistance in times of crisis.
+- Automatically initiate a call to your saved emergency contact and send an SMS with your location and distress message: "I'm in trouble, sending my location..."
 
-SafeVerse is a web-based platform, accessible through any modern web browser. Simply visit [https://safeverse.com](https://safeverse.com) to start exploring the resources and tools it offers.
+### SMS Alert
+- Utilize the "SMS Alert" feature to discreetly signal for help in emergencies.
+- Start SMS alerts with a simple tap, triggering a siren sound and continuous distress message transmission to your designated contact.
+- Stop SMS alerts when the situation is resolved.
 
-## Usage
+### Basic Laws
+- Explore detailed information on fundamental legal regulations concerning women's rights and safety, including:
+  - Prohibition of Child Marriage Act
+  - Dowry Laws
+  - Indian Divorce Laws
+  - And more, providing clarity and awareness on crucial legal matters.
 
-1. **Explore Content**: Browse through articles, tutorials, and resources related to online safety and privacy.
-2. **Engage with the Community**: Participate in forums, ask questions, and share your knowledge with others.
-3. **Stay Informed**: Keep up-to-date with the latest news and developments in cybersecurity and digital privacy.
+### Self-Defense Techniques
+- Empower yourself with practical self-defense skills through instructional videos available in the "Self-Defense" section.
+- Learn effective techniques to protect yourself and build confidence in challenging situations.
 
-## Contributing
+## Screenshots and Videos
 
-Contributions to SafeVerse are welcome! If you have suggestions for new features, improvements, or would like to report a bug, please feel free to open an issue or submit a pull request. Together, we can make the internet a safer place for everyone.
+![Screenshot 1](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/dd5021ca-3344-47eb-96bf-0670c1197467)
+  
+[Video Part 1](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/c564ee6b-12e6-46b6-9ca8-413c839d6168)
+
+[Video Part 2](https://github.com/Shambhavi-Jaiswal/SafeVerse/assets/112714944/8ea2b0b9-0a48-45e3-9167-8a2c45c04771)
+
+## How to Use
+[Instructions on how to use the app]
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Install the dependencies required for running the app.
+3. Follow the setup instructions provided in the documentation.
+
+## Contributors
+- [Shambhavi Jaiswal](https://github.com/Shambhavi-Jaiswal)
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial purposes.
-
-## Contact
-
-For any inquiries or feedback regarding SafeVerse, please contact us at [contact@safeverse.com](mailto:contact@safeverse.com).
+This project is licensed under the [MIT License](LICENSE).
